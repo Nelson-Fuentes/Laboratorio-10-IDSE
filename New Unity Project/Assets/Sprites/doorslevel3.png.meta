@@ -1,0 +1,5852 @@
+fileFormatVersion: 2
+guid: 31a3669018cfd4e498d7c2326a1eba17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4192883557810110959
+    second: doorslevel3_0
+  - first:
+      213: 364187444883229792
+    second: doorslevel3_1
+  - first:
+      213: -4217192555249872436
+    second: doorslevel3_2
+  - first:
+      213: 3130075500363535259
+    second: doorslevel3_3
+  - first:
+      213: -8763050782657240488
+    second: doorslevel3_4
+  - first:
+      213: 1313904822477883572
+    second: doorslevel3_5
+  - first:
+      213: -7986361013016337087
+    second: doorslevel3_6
+  - first:
+      213: 8211901393910073656
+    second: doorslevel3_7
+  - first:
+      213: 6420842492450866663
+    second: doorslevel3_8
+  - first:
+      213: 7790562029259708968
+    second: doorslevel3_9
+  - first:
+      213: 2295122692193070111
+    second: doorslevel3_10
+  - first:
+      213: -4438464607093035230
+    second: doorslevel3_11
+  - first:
+      213: 8175289876336726414
+    second: doorslevel3_12
+  - first:
+      213: 8768647677227730557
+    second: doorslevel3_13
+  - first:
+      213: 6619799979314912209
+    second: doorslevel3_14
+  - first:
+      213: 3557297167963171580
+    second: doorslevel3_15
+  - first:
+      213: -1173806684346716282
+    second: doorslevel3_16
+  - first:
+      213: 3643427280859136533
+    second: doorslevel3_17
+  - first:
+      213: 1330196439448865819
+    second: doorslevel3_18
+  - first:
+      213: 6846245321747627678
+    second: doorslevel3_19
+  - first:
+      213: -6688594103762281806
+    second: doorslevel3_20
+  - first:
+      213: 4317654363243794509
+    second: doorslevel3_21
+  - first:
+      213: -1555184585578917162
+    second: doorslevel3_22
+  - first:
+      213: 8409929964637270296
+    second: doorslevel3_23
+  - first:
+      213: 2315147387625083682
+    second: doorslevel3_24
+  - first:
+      213: -2661289688358080120
+    second: doorslevel3_25
+  - first:
+      213: 4927103390143677126
+    second: doorslevel3_26
+  - first:
+      213: 3149145218118233503
+    second: doorslevel3_27
+  - first:
+      213: 4769364758291158264
+    second: doorslevel3_28
+  - first:
+      213: 5907996331600850173
+    second: doorslevel3_29
+  - first:
+      213: 5456924322555300292
+    second: doorslevel3_30
+  - first:
+      213: 1508861304764012655
+    second: doorslevel3_31
+  - first:
+      213: -3989780979263601232
+    second: doorslevel3_32
+  - first:
+      213: -5862476643106821786
+    second: doorslevel3_33
+  - first:
+      213: -6530347723507578680
+    second: doorslevel3_34
+  - first:
+      213: -9134527896403224433
+    second: doorslevel3_35
+  - first:
+      213: -5377914141475900977
+    second: doorslevel3_36
+  - first:
+      213: -8903961619369832453
+    second: doorslevel3_37
+  - first:
+      213: -1491621158060447606
+    second: doorslevel3_38
+  - first:
+      213: 4265036777840061201
+    second: doorslevel3_39
+  - first:
+      213: -1379507166397810633
+    second: doorslevel3_40
+  - first:
+      213: 6099291909759853362
+    second: doorslevel3_41
+  - first:
+      213: -1418525711508422739
+    second: doorslevel3_42
+  - first:
+      213: 1718545122073513763
+    second: doorslevel3_43
+  - first:
+      213: -4599353833257915285
+    second: doorslevel3_44
+  - first:
+      213: 7920435467417695616
+    second: doorslevel3_45
+  - first:
+      213: -7867133306872637933
+    second: doorslevel3_46
+  - first:
+      213: -3724873836601665659
+    second: doorslevel3_47
+  - first:
+      213: 7693124548911314189
+    second: doorslevel3_48
+  - first:
+      213: -7076350263796549765
+    second: doorslevel3_49
+  - first:
+      213: 2088283127193255580
+    second: doorslevel3_50
+  - first:
+      213: 1312316004455537684
+    second: doorslevel3_51
+  - first:
+      213: 2514714193429338495
+    second: doorslevel3_52
+  - first:
+      213: 269254958338362424
+    second: doorslevel3_53
+  - first:
+      213: 2479482806868879028
+    second: doorslevel3_54
+  - first:
+      213: -6852175378961927870
+    second: doorslevel3_55
+  - first:
+      213: 1298301468929564417
+    second: doorslevel3_56
+  - first:
+      213: -60828563632271581
+    second: doorslevel3_57
+  - first:
+      213: -4123525072474772346
+    second: doorslevel3_58
+  - first:
+      213: -8373906385723886199
+    second: doorslevel3_59
+  - first:
+      213: 3699394175822757359
+    second: doorslevel3_60
+  - first:
+      213: 4359068115903188497
+    second: doorslevel3_61
+  - first:
+      213: -2593413295242267607
+    second: doorslevel3_62
+  - first:
+      213: -5219642841037450604
+    second: doorslevel3_63
+  - first:
+      213: -1209585742495831047
+    second: doorslevel3_64
+  - first:
+      213: -2157522406452368963
+    second: doorslevel3_65
+  - first:
+      213: -4552888121397598159
+    second: doorslevel3_66
+  - first:
+      213: 1813758113530334099
+    second: doorslevel3_67
+  - first:
+      213: 1801419449928097192
+    second: doorslevel3_68
+  - first:
+      213: 6082669573121526318
+    second: doorslevel3_69
+  - first:
+      213: 1726964880902571792
+    second: doorslevel3_70
+  - first:
+      213: -6691287951288309745
+    second: doorslevel3_71
+  - first:
+      213: -343505993945647026
+    second: doorslevel3_72
+  - first:
+      213: 5621708493295246682
+    second: doorslevel3_73
+  - first:
+      213: 6589171368096633901
+    second: doorslevel3_74
+  - first:
+      213: -3512535215569229962
+    second: doorslevel3_75
+  - first:
+      213: -8847719634446804884
+    second: doorslevel3_76
+  - first:
+      213: 2571285819158730512
+    second: doorslevel3_77
+  - first:
+      213: -4736883879811099725
+    second: doorslevel3_78
+  - first:
+      213: -811809721661453932
+    second: doorslevel3_79
+  - first:
+      213: -6704703954634067287
+    second: doorslevel3_80
+  - first:
+      213: -1418168570324868666
+    second: doorslevel3_81
+  - first:
+      213: -8224822071143965161
+    second: doorslevel3_82
+  - first:
+      213: 9039700621422317441
+    second: doorslevel3_83
+  - first:
+      213: -3410121073818199110
+    second: doorslevel3_84
+  - first:
+      213: 2854053722254990976
+    second: doorslevel3_85
+  - first:
+      213: 6965578034700497250
+    second: doorslevel3_86
+  - first:
+      213: 8672282384567350632
+    second: doorslevel3_87
+  - first:
+      213: 2339465357751653171
+    second: doorslevel3_88
+  - first:
+      213: -2201424774747637684
+    second: doorslevel3_89
+  - first:
+      213: -7395670932159143237
+    second: doorslevel3_90
+  - first:
+      213: 6389434577597447229
+    second: doorslevel3_91
+  - first:
+      213: -4404881184407408702
+    second: doorslevel3_92
+  - first:
+      213: -5876050100669452189
+    second: doorslevel3_93
+  - first:
+      213: -5860862179563461526
+    second: doorslevel3_94
+  - first:
+      213: -299858819923449274
+    second: doorslevel3_95
+  - first:
+      213: -4396903021138553920
+    second: doorslevel3_96
+  - first:
+      213: -180250065327496950
+    second: doorslevel3_97
+  - first:
+      213: -2080034794547719139
+    second: doorslevel3_98
+  - first:
+      213: 426913369772129026
+    second: doorslevel3_99
+  - first:
+      213: 5135608441142869230
+    second: doorslevel3_100
+  - first:
+      213: -2565147515166480205
+    second: doorslevel3_101
+  - first:
+      213: 4872476135485601708
+    second: doorslevel3_102
+  - first:
+      213: 1327535201728047427
+    second: doorslevel3_103
+  - first:
+      213: -386225671607238853
+    second: doorslevel3_104
+  - first:
+      213: 8934256896811686477
+    second: doorslevel3_105
+  - first:
+      213: -4350913760664060359
+    second: doorslevel3_106
+  - first:
+      213: -7718463516414874072
+    second: doorslevel3_107
+  - first:
+      213: -3546617067391884627
+    second: doorslevel3_108
+  - first:
+      213: -2954239744396287925
+    second: doorslevel3_109
+  - first:
+      213: 7820891707928726629
+    second: doorslevel3_110
+  - first:
+      213: -3060640942950477158
+    second: doorslevel3_111
+  - first:
+      213: 702037441106713936
+    second: doorslevel3_112
+  - first:
+      213: 3705254800033399646
+    second: doorslevel3_113
+  - first:
+      213: 6437756079764509408
+    second: doorslevel3_114
+  - first:
+      213: -8852810616659232446
+    second: doorslevel3_115
+  - first:
+      213: 1529368032109280593
+    second: doorslevel3_116
+  - first:
+      213: -4444506959590138419
+    second: doorslevel3_117
+  - first:
+      213: 1772736887658134640
+    second: doorslevel3_118
+  - first:
+      213: 1406924202490964227
+    second: doorslevel3_119
+  - first:
+      213: 1338320252156825092
+    second: doorslevel3_120
+  - first:
+      213: 8538467657016506579
+    second: doorslevel3_121
+  - first:
+      213: 6663260224072097586
+    second: doorslevel3_122
+  - first:
+      213: -7098177993159621773
+    second: doorslevel3_123
+  - first:
+      213: -830750023510284051
+    second: doorslevel3_124
+  - first:
+      213: 2322447032357412223
+    second: doorslevel3_125
+  - first:
+      213: -5270972181122072901
+    second: doorslevel3_126
+  - first:
+      213: -5637100908279358825
+    second: doorslevel3_127
+  - first:
+      213: -3899664559678857588
+    second: doorslevel3_128
+  - first:
+      213: 6941317566984619737
+    second: doorslevel3_129
+  - first:
+      213: 125067212598532273
+    second: doorslevel3_130
+  - first:
+      213: -1144147304596383032
+    second: doorslevel3_131
+  - first:
+      213: 1431676576089320470
+    second: doorslevel3_132
+  - first:
+      213: -2637406262291648080
+    second: doorslevel3_133
+  - first:
+      213: 7761700089097307576
+    second: doorslevel3_134
+  - first:
+      213: 3737409958163597858
+    second: doorslevel3_135
+  - first:
+      213: -1324652664286014851
+    second: doorslevel3_136
+  - first:
+      213: 1312124271759351836
+    second: doorslevel3_137
+  - first:
+      213: -4505875982357820701
+    second: doorslevel3_138
+  - first:
+      213: -8598496352852445962
+    second: doorslevel3_139
+  - first:
+      213: 8599242996642335660
+    second: doorslevel3_140
+  - first:
+      213: -3360924722957439467
+    second: doorslevel3_141
+  - first:
+      213: -8537416069560512661
+    second: doorslevel3_142
+  - first:
+      213: 8432540992968964336
+    second: doorslevel3_143
+  - first:
+      213: -3021044096719076662
+    second: doorslevel3_144
+  - first:
+      213: 5472935448518490534
+    second: doorslevel3_145
+  - first:
+      213: 7599502060178456116
+    second: doorslevel3_146
+  - first:
+      213: -8859591169376918198
+    second: doorslevel3_147
+  - first:
+      213: 8379356209562163032
+    second: doorslevel3_148
+  - first:
+      213: -4353506109034330478
+    second: doorslevel3_149
+  - first:
+      213: 2079258441446522588
+    second: doorslevel3_150
+  - first:
+      213: 6148214941755276928
+    second: doorslevel3_151
+  - first:
+      213: -7282004535006390322
+    second: doorslevel3_152
+  - first:
+      213: -1048305082295527349
+    second: doorslevel3_153
+  - first:
+      213: -4750731237853460807
+    second: doorslevel3_154
+  - first:
+      213: 4379355755446280985
+    second: doorslevel3_155
+  - first:
+      213: 7562188653699367045
+    second: doorslevel3_156
+  - first:
+      213: -3512036239588847618
+    second: doorslevel3_157
+  - first:
+      213: 6753947202938015297
+    second: doorslevel3_158
+  - first:
+      213: -9059891125473941013
+    second: doorslevel3_159
+  - first:
+      213: -2981814484205049892
+    second: doorslevel3_160
+  - first:
+      213: 7356516534373257064
+    second: doorslevel3_161
+  - first:
+      213: -8713681184849325092
+    second: doorslevel3_162
+  - first:
+      213: 2208773635450199931
+    second: doorslevel3_163
+  - first:
+      213: -8838201690553798157
+    second: doorslevel3_164
+  - first:
+      213: -504309277326791800
+    second: doorslevel3_165
+  - first:
+      213: 5374888995758265404
+    second: doorslevel3_166
+  - first:
+      213: -6239083081311108229
+    second: doorslevel3_167
+  - first:
+      213: 6288692265142275947
+    second: doorslevel3_168
+  - first:
+      213: 6946934697416767179
+    second: doorslevel3_169
+  - first:
+      213: -8841532191564663059
+    second: doorslevel3_170
+  - first:
+      213: -4695923398429085530
+    second: doorslevel3_171
+  - first:
+      213: -5001703274604830594
+    second: doorslevel3_172
+  - first:
+      213: 729720571989762811
+    second: doorslevel3_173
+  - first:
+      213: 1431983927288948629
+    second: doorslevel3_174
+  - first:
+      213: -4601086067518850452
+    second: doorslevel3_175
+  - first:
+      213: 8780007348104730776
+    second: doorslevel3_176
+  - first:
+      213: 2138051250077720243
+    second: doorslevel3_177
+  - first:
+      213: -9020483842205828923
+    second: doorslevel3_178
+  - first:
+      213: -431868777841733163
+    second: doorslevel3_179
+  - first:
+      213: 1996294251076643099
+    second: doorslevel3_180
+  - first:
+      213: 5649045297946397742
+    second: doorslevel3_181
+  - first:
+      213: -3106701999119001709
+    second: doorslevel3_182
+  - first:
+      213: -8592501164517062969
+    second: doorslevel3_183
+  - first:
+      213: -8238579555713228904
+    second: doorslevel3_184
+  - first:
+      213: 5098382244600300895
+    second: doorslevel3_185
+  - first:
+      213: 92786040981702876
+    second: doorslevel3_186
+  - first:
+      213: 4659222578123105487
+    second: doorslevel3_187
+  - first:
+      213: -6148505807431373306
+    second: doorslevel3_188
+  - first:
+      213: -2565352708099329198
+    second: doorslevel3_189
+  - first:
+      213: 84714816785435171
+    second: doorslevel3_190
+  - first:
+      213: 3218931744395436777
+    second: doorslevel3_191
+  - first:
+      213: -7402952673636933041
+    second: doorslevel3_192
+  - first:
+      213: -9025247359325559831
+    second: doorslevel3_193
+  - first:
+      213: 5386016186816515397
+    second: doorslevel3_194
+  - first:
+      213: 2236898916753500507
+    second: doorslevel3_195
+  - first:
+      213: 5747580633168367004
+    second: doorslevel3_196
+  - first:
+      213: -3176185158286713776
+    second: doorslevel3_197
+  - first:
+      213: 3872840634892991039
+    second: doorslevel3_198
+  - first:
+      213: 734094275308645546
+    second: doorslevel3_199
+  - first:
+      213: 2767668535957505891
+    second: doorslevel3_200
+  - first:
+      213: -1969780427294664565
+    second: doorslevel3_201
+  - first:
+      213: -2575853151649333333
+    second: doorslevel3_202
+  - first:
+      213: 2471430808733679554
+    second: doorslevel3_203
+  - first:
+      213: -277291081639973004
+    second: doorslevel3_204
+  - first:
+      213: -7330855143081653069
+    second: doorslevel3_205
+  - first:
+      213: -6015551417603330891
+    second: doorslevel3_206
+  - first:
+      213: -7314518547879114365
+    second: doorslevel3_207
+  - first:
+      213: -4622585674791235178
+    second: doorslevel3_208
+  - first:
+      213: -8842939747442007461
+    second: doorslevel3_209
+  - first:
+      213: -6870634049043485194
+    second: doorslevel3_210
+  - first:
+      213: 107171503891114754
+    second: doorslevel3_211
+  - first:
+      213: 4069856927150651398
+    second: doorslevel3_212
+  - first:
+      213: -5689120202799412413
+    second: doorslevel3_213
+  - first:
+      213: 7460037738536246753
+    second: doorslevel3_214
+  - first:
+      213: -1129620246673150813
+    second: doorslevel3_215
+  - first:
+      213: -2425307715175318481
+    second: doorslevel3_216
+  - first:
+      213: 6243774420656948201
+    second: doorslevel3_217
+  - first:
+      213: 1493402456799781839
+    second: doorslevel3_218
+  - first:
+      213: 1923497086196839335
+    second: doorslevel3_219
+  - first:
+      213: -2133743771632034541
+    second: doorslevel3_220
+  - first:
+      213: -4683911060862499904
+    second: doorslevel3_221
+  - first:
+      213: -4797113120042001756
+    second: doorslevel3_222
+  - first:
+      213: 7982528301761084023
+    second: doorslevel3_223
+  - first:
+      213: 7717895169163277674
+    second: doorslevel3_224
+  - first:
+      213: 2848529168524938747
+    second: doorslevel3_225
+  - first:
+      213: 5437351669890247395
+    second: doorslevel3_226
+  - first:
+      213: 6691264762961142844
+    second: doorslevel3_227
+  - first:
+      213: -3861239760669287905
+    second: doorslevel3_228
+  - first:
+      213: 3122563639082066429
+    second: doorslevel3_229
+  - first:
+      213: 834944985145003825
+    second: doorslevel3_230
+  - first:
+      213: -96714260602329216
+    second: doorslevel3_231
+  - first:
+      213: -7153938698645514762
+    second: doorslevel3_232
+  - first:
+      213: 4491198951942838739
+    second: doorslevel3_233
+  - first:
+      213: 7608794164138966249
+    second: doorslevel3_234
+  - first:
+      213: 2531064577729091165
+    second: doorslevel3_235
+  - first:
+      213: -7012922159087495202
+    second: doorslevel3_236
+  - first:
+      213: 5057741296845161738
+    second: doorslevel3_237
+  - first:
+      213: -5759478712967204969
+    second: doorslevel3_238
+  - first:
+      213: 6480053098723595428
+    second: doorslevel3_239
+  - first:
+      213: 7650784295659696677
+    second: doorslevel3_240
+  - first:
+      213: 6203692793396686839
+    second: doorslevel3_241
+  - first:
+      213: -2158896934643201636
+    second: doorslevel3_242
+  - first:
+      213: -3534696743170605327
+    second: doorslevel3_243
+  - first:
+      213: 9114416698880743642
+    second: doorslevel3_244
+  - first:
+      213: 1894434526792455122
+    second: doorslevel3_245
+  - first:
+      213: -5769393640390443209
+    second: doorslevel3_246
+  - first:
+      213: 7838924047308368374
+    second: doorslevel3_247
+  - first:
+      213: -6773898039597923541
+    second: doorslevel3_248
+  - first:
+      213: 8078564474159870232
+    second: doorslevel3_249
+  - first:
+      213: 2161675273236464209
+    second: doorslevel3_250
+  - first:
+      213: 5157138587018075020
+    second: doorslevel3_251
+  - first:
+      213: 4908493048711675377
+    second: doorslevel3_252
+  - first:
+      213: 3155757989260702920
+    second: doorslevel3_253
+  - first:
+      213: -7450072031648426537
+    second: doorslevel3_254
+  - first:
+      213: 6373113476685008068
+    second: doorslevel3_255
+  - first:
+      213: -6551426882963362312
+    second: doorslevel3_256
+  - first:
+      213: -7890114202110483045
+    second: doorslevel3_257
+  - first:
+      213: -5369876836216914335
+    second: doorslevel3_258
+  - first:
+      213: 7316018590689714755
+    second: doorslevel3_259
+  - first:
+      213: 3258913326032294745
+    second: doorslevel3_260
+  - first:
+      213: 3667010700794649359
+    second: doorslevel3_261
+  - first:
+      213: -4680395956858875570
+    second: doorslevel3_262
+  - first:
+      213: -4615174972596229428
+    second: doorslevel3_263
+  - first:
+      213: -8076583817619117730
+    second: doorslevel3_264
+  - first:
+      213: 8566931104133085047
+    second: doorslevel3_265
+  - first:
+      213: 4040246930425837275
+    second: doorslevel3_266
+  - first:
+      213: -4543068768910269512
+    second: doorslevel3_267
+  - first:
+      213: 1890031131083338577
+    second: doorslevel3_268
+  - first:
+      213: -4422175246996634199
+    second: doorslevel3_269
+  - first:
+      213: 2791962030387513026
+    second: doorslevel3_270
+  - first:
+      213: 6637695306087557628
+    second: doorslevel3_271
+  - first:
+      213: 6307967064588981205
+    second: doorslevel3_272
+  - first:
+      213: -8403321003290909984
+    second: doorslevel3_273
+  - first:
+      213: 3351980458260460388
+    second: doorslevel3_274
+  - first:
+      213: -8729759609384649644
+    second: doorslevel3_275
+  - first:
+      213: -5522877015030982261
+    second: doorslevel3_276
+  - first:
+      213: -5308797233564076787
+    second: doorslevel3_277
+  - first:
+      213: 2930285456534695906
+    second: doorslevel3_278
+  - first:
+      213: 7191930007179439495
+    second: doorslevel3_279
+  - first:
+      213: -8270198545710752297
+    second: doorslevel3_280
+  - first:
+      213: -6113999445610889406
+    second: doorslevel3_281
+  - first:
+      213: -3483817954364087857
+    second: doorslevel3_282
+  - first:
+      213: 739681279035957685
+    second: doorslevel3_283
+  - first:
+      213: -7862901308909047861
+    second: doorslevel3_284
+  - first:
+      213: 7610974726597899683
+    second: doorslevel3_285
+  - first:
+      213: 7139533857941407980
+    second: doorslevel3_286
+  - first:
+      213: 276103055631822874
+    second: doorslevel3_287
+  - first:
+      213: -5778911117179414649
+    second: doorslevel3_288
+  - first:
+      213: -6074461454749123187
+    second: doorslevel3_289
+  - first:
+      213: -7163374798472985123
+    second: doorslevel3_290
+  - first:
+      213: 981707998721440037
+    second: doorslevel3_291
+  - first:
+      213: 7579876781341419310
+    second: doorslevel3_292
+  - first:
+      213: 8712813077507488456
+    second: doorslevel3_293
+  - first:
+      213: 9196075706842132385
+    second: doorslevel3_294
+  - first:
+      213: -1832213711738588296
+    second: doorslevel3_295
+  - first:
+      213: 3768396703258629978
+    second: doorslevel3_296
+  - first:
+      213: -1415399734624552644
+    second: doorslevel3_297
+  - first:
+      213: -5990799260896753018
+    second: doorslevel3_298
+  - first:
+      213: -7805653439014332109
+    second: doorslevel3_299
+  - first:
+      213: -4196286997546157377
+    second: doorslevel3_300
+  - first:
+      213: -1329084643169602701
+    second: doorslevel3_301
+  - first:
+      213: 8146041587534018588
+    second: doorslevel3_302
+  - first:
+      213: 6013263832207845729
+    second: doorslevel3_303
+  - first:
+      213: 2164120376364070276
+    second: doorslevel3_304
+  - first:
+      213: -7485785553403239824
+    second: doorslevel3_305
+  - first:
+      213: -3046992577478489195
+    second: doorslevel3_306
+  - first:
+      213: 2255663226556156866
+    second: doorslevel3_307
+  - first:
+      213: -5718331763921007505
+    second: doorslevel3_308
+  - first:
+      213: -2794377559837154317
+    second: doorslevel3_309
+  - first:
+      213: 934002302243333831
+    second: doorslevel3_310
+  - first:
+      213: 1669618276315644287
+    second: doorslevel3_311
+  - first:
+      213: 3795186879758923529
+    second: doorslevel3_312
+  - first:
+      213: 1317454197026581776
+    second: doorslevel3_313
+  - first:
+      213: 2959829662200751345
+    second: doorslevel3_314
+  - first:
+      213: -8738407598836577699
+    second: doorslevel3_315
+  - first:
+      213: -8629519952229985478
+    second: doorslevel3_316
+  - first:
+      213: -3397822603202812118
+    second: doorslevel3_317
+  - first:
+      213: 4051435389612618511
+    second: doorslevel3_318
+  - first:
+      213: 1957582377277721186
+    second: doorslevel3_319
+  - first:
+      213: -2400021016414199931
+    second: doorslevel3_320
+  - first:
+      213: -1047841209362859252
+    second: doorslevel3_321
+  - first:
+      213: 7506773307298902485
+    second: doorslevel3_322
+  - first:
+      213: 6540626579028222418
+    second: doorslevel3_323
+  - first:
+      213: 7433368079195342996
+    second: doorslevel3_324
+  - first:
+      213: -4780586256986665554
+    second: doorslevel3_325
+  - first:
+      213: -6979366550638424843
+    second: doorslevel3_326
+  - first:
+      213: -6668767618260746017
+    second: doorslevel3_327
+  - first:
+      213: -7173827708070308002
+    second: doorslevel3_328
+  - first:
+      213: 3911250162380516255
+    second: doorslevel3_329
+  - first:
+      213: -4772475116516677990
+    second: doorslevel3_330
+  - first:
+      213: -4337335638137023933
+    second: doorslevel3_331
+  - first:
+      213: -6026719980279508049
+    second: doorslevel3_332
+  - first:
+      213: -9222064438288011381
+    second: doorslevel3_333
+  - first:
+      213: -2478062282003870515
+    second: doorslevel3_334
+  - first:
+      213: 513226956664565233
+    second: doorslevel3_335
+  - first:
+      213: -8373658979673203897
+    second: doorslevel3_336
+  - first:
+      213: 8576910968656357523
+    second: doorslevel3_337
+  - first:
+      213: 2454461993894020855
+    second: doorslevel3_338
+  - first:
+      213: -6053053830026424035
+    second: doorslevel3_339
+  - first:
+      213: 1570889705336447810
+    second: doorslevel3_340
+  - first:
+      213: -5952335959081175409
+    second: doorslevel3_341
+  - first:
+      213: 8157643494971085750
+    second: doorslevel3_342
+  - first:
+      213: -762514865120149290
+    second: doorslevel3_343
+  - first:
+      213: 3332754252349277457
+    second: doorslevel3_344
+  - first:
+      213: -265098501109989450
+    second: doorslevel3_345
+  - first:
+      213: -5952096463917743701
+    second: doorslevel3_346
+  - first:
+      213: -4710582566869670752
+    second: doorslevel3_347
+  - first:
+      213: 2933727438215394327
+    second: doorslevel3_348
+  - first:
+      213: 2913278919558852597
+    second: doorslevel3_349
+  - first:
+      213: 3656606228157228067
+    second: doorslevel3_350
+  - first:
+      213: 3154949915794811332
+    second: doorslevel3_351
+  - first:
+      213: -6404533758839079436
+    second: doorslevel3_352
+  - first:
+      213: -6424503034443033721
+    second: doorslevel3_353
+  - first:
+      213: -7464152990692246317
+    second: doorslevel3_354
+  - first:
+      213: 2180439274672310452
+    second: doorslevel3_355
+  - first:
+      213: 3147991643154330194
+    second: doorslevel3_356
+  - first:
+      213: 4081927866222776251
+    second: doorslevel3_357
+  - first:
+      213: -5993905157507857727
+    second: doorslevel3_358
+  - first:
+      213: 1946455441232209159
+    second: doorslevel3_359
+  - first:
+      213: -4221709613530216664
+    second: doorslevel3_360
+  - first:
+      213: -8949608531636699583
+    second: doorslevel3_361
+  - first:
+      213: -6191817301672349202
+    second: doorslevel3_362
+  - first:
+      213: -5937148267860626314
+    second: doorslevel3_363
+  - first:
+      213: 5494139097670771416
+    second: doorslevel3_364
+  - first:
+      213: -1638906142688779844
+    second: doorslevel3_365
+  - first:
+      213: -5906102982068508244
+    second: doorslevel3_366
+  - first:
+      213: 858088724987715785
+    second: doorslevel3_367
+  - first:
+      213: 8998382647598803633
+    second: doorslevel3_368
+  - first:
+      213: -2175866709914028320
+    second: doorslevel3_369
+  - first:
+      213: -1445188334250005635
+    second: doorslevel3_370
+  - first:
+      213: 383317351271754396
+    second: doorslevel3_371
+  - first:
+      213: 2273403292242808340
+    second: doorslevel3_372
+  - first:
+      213: 3921614006760185357
+    second: doorslevel3_373
+  - first:
+      213: 5810883908380203721
+    second: doorslevel3_374
+  - first:
+      213: -6662914157493700268
+    second: doorslevel3_375
+  - first:
+      213: 432073029140221871
+    second: doorslevel3_376
+  - first:
+      213: 4473809746622512150
+    second: doorslevel3_377
+  - first:
+      213: -1152279969185987422
+    second: doorslevel3_378
+  - first:
+      213: -6202213662631987229
+    second: doorslevel3_379
+  - first:
+      213: -9155148857078306007
+    second: doorslevel3_380
+  - first:
+      213: -146001661384311850
+    second: doorslevel3_381
+  - first:
+      213: -8363974691155281490
+    second: doorslevel3_382
+  - first:
+      213: -2041927876802795148
+    second: doorslevel3_383
+  - first:
+      213: -4403479048726248476
+    second: doorslevel3_384
+  - first:
+      213: 7952412838636880369
+    second: doorslevel3_385
+  - first:
+      213: -1762124694579229936
+    second: doorslevel3_386
+  - first:
+      213: -4289203924313884569
+    second: doorslevel3_387
+  - first:
+      213: 1054237067559581250
+    second: doorslevel3_388
+  - first:
+      213: -4476028493899413322
+    second: doorslevel3_389
+  - first:
+      213: 6833727471950056768
+    second: doorslevel3_390
+  - first:
+      213: -1662171150549455786
+    second: doorslevel3_391
+  - first:
+      213: 4322662665325099017
+    second: doorslevel3_392
+  - first:
+      213: 2244517494872804566
+    second: doorslevel3_393
+  - first:
+      213: -7448821075414960265
+    second: doorslevel3_394
+  - first:
+      213: 7971869596083014799
+    second: doorslevel3_395
+  - first:
+      213: 1261399243282135804
+    second: doorslevel3_396
+  - first:
+      213: 6587791887268975208
+    second: doorslevel3_397
+  - first:
+      213: -6584341104707876572
+    second: doorslevel3_398
+  - first:
+      213: -659488529767276254
+    second: doorslevel3_399
+  - first:
+      213: -4619685182805019855
+    second: doorslevel3_400
+  - first:
+      213: -8752329750569999823
+    second: doorslevel3_401
+  - first:
+      213: 3957708138652670278
+    second: doorslevel3_402
+  - first:
+      213: 8211151993993752186
+    second: doorslevel3_403
+  - first:
+      213: 59368229758763971
+    second: doorslevel3_404
+  - first:
+      213: -8703756551840130862
+    second: doorslevel3_405
+  - first:
+      213: -4920439113451710316
+    second: doorslevel3_406
+  - first:
+      213: -2377411685139335517
+    second: doorslevel3_407
+  - first:
+      213: -5802358791641763595
+    second: doorslevel3_408
+  - first:
+      213: -383165584542958801
+    second: doorslevel3_409
+  - first:
+      213: -7485031654017331500
+    second: doorslevel3_410
+  - first:
+      213: 6765655116658413936
+    second: doorslevel3_411
+  - first:
+      213: 7040834060313040483
+    second: doorslevel3_412
+  - first:
+      213: 5928119636642682425
+    second: doorslevel3_413
+  - first:
+      213: 5979154639915456646
+    second: doorslevel3_414
+  - first:
+      213: -8871239165967626740
+    second: doorslevel3_415
+  - first:
+      213: -2523733755248161912
+    second: doorslevel3_416
+  - first:
+      213: -5357664592018533776
+    second: doorslevel3_417
+  - first:
+      213: 7274846984173397585
+    second: doorslevel3_418
+  - first:
+      213: -3781563887015830979
+    second: doorslevel3_419
+  - first:
+      213: 6237735475631543780
+    second: doorslevel3_420
+  - first:
+      213: -6433422138434769337
+    second: doorslevel3_421
+  - first:
+      213: -3284416352833141357
+    second: doorslevel3_422
+  - first:
+      213: -5049694054603019851
+    second: doorslevel3_423
+  - first:
+      213: -4176711230766554383
+    second: doorslevel3_424
+  - first:
+      213: 3197393640109872982
+    second: doorslevel3_425
+  - first:
+      213: -1518743920177962871
+    second: doorslevel3_426
+  - first:
+      213: 6790542088388487148
+    second: doorslevel3_427
+  - first:
+      213: -4055313127794789220
+    second: doorslevel3_428
+  - first:
+      213: 8077551274854778616
+    second: doorslevel3_429
+  - first:
+      213: 4171758518909427340
+    second: doorslevel3_430
+  - first:
+      213: -2919848215343520600
+    second: doorslevel3_431
+  - first:
+      213: 6908759311630967189
+    second: doorslevel3_432
+  - first:
+      213: -9176234631701136864
+    second: doorslevel3_433
+  - first:
+      213: -3356865574207790041
+    second: doorslevel3_434
+  - first:
+      213: 2148690873237254720
+    second: doorslevel3_435
+  - first:
+      213: 5495179727859507512
+    second: doorslevel3_436
+  - first:
+      213: -7692657690163334624
+    second: doorslevel3_437
+  - first:
+      213: 1081815404391011794
+    second: doorslevel3_438
+  - first:
+      213: -9178107737419577282
+    second: doorslevel3_439
+  - first:
+      213: -5639887581165206280
+    second: doorslevel3_440
+  - first:
+      213: 506917295633733659
+    second: doorslevel3_441
+  - first:
+      213: 9071106310571954610
+    second: doorslevel3_442
+  - first:
+      213: 4860919641732622592
+    second: doorslevel3_443
+  - first:
+      213: 2268692513063837933
+    second: doorslevel3_444
+  - first:
+      213: 1486626773844348577
+    second: doorslevel3_445
+  - first:
+      213: -7768548173816044500
+    second: doorslevel3_446
+  - first:
+      213: 366399271959157576
+    second: doorslevel3_447
+  - first:
+      213: 4652545969494004593
+    second: doorslevel3_448
+  - first:
+      213: 6250544186361875070
+    second: doorslevel3_449
+  - first:
+      213: -1687050931696631645
+    second: doorslevel3_450
+  - first:
+      213: -3179096953112199740
+    second: doorslevel3_451
+  - first:
+      213: -2612230877986292718
+    second: doorslevel3_452
+  - first:
+      213: 884686904005449021
+    second: doorslevel3_453
+  - first:
+      213: -1004044644594066993
+    second: doorslevel3_454
+  - first:
+      213: 7995064411194856380
+    second: doorslevel3_455
+  - first:
+      213: -6109635450219327655
+    second: doorslevel3_456
+  - first:
+      213: -743379436968653340
+    second: doorslevel3_457
+  - first:
+      213: -156722679922639778
+    second: doorslevel3_458
+  - first:
+      213: -7293987297353706737
+    second: doorslevel3_459
+  - first:
+      213: -6640779183830741089
+    second: doorslevel3_460
+  - first:
+      213: -7612573634412018116
+    second: doorslevel3_461
+  - first:
+      213: -6554810471598376961
+    second: doorslevel3_462
+  - first:
+      213: -5478607686261707995
+    second: doorslevel3_463
+  - first:
+      213: -8227324423919806087
+    second: doorslevel3_464
+  - first:
+      213: 3374797922570831358
+    second: doorslevel3_465
+  - first:
+      213: 2138215454188127504
+    second: doorslevel3_466
+  - first:
+      213: -3660608886123157213
+    second: doorslevel3_467
+  - first:
+      213: 7429116835937366829
+    second: doorslevel3_468
+  - first:
+      213: -524542943043848994
+    second: doorslevel3_469
+  - first:
+      213: 1993320248465245135
+    second: doorslevel3_470
+  - first:
+      213: -6540374639953732979
+    second: doorslevel3_471
+  - first:
+      213: 459972426480624712
+    second: doorslevel3_472
+  - first:
+      213: 3561088182158436943
+    second: doorslevel3_473
+  - first:
+      213: 8815107415853882988
+    second: doorslevel3_474
+  - first:
+      213: 1578707223520999600
+    second: doorslevel3_475
+  - first:
+      213: -1076378199538785600
+    second: doorslevel3_476
+  - first:
+      213: -8789911611657235348
+    second: doorslevel3_477
+  - first:
+      213: 775216010080204636
+    second: doorslevel3_478
+  - first:
+      213: 3075601258639076031
+    second: doorslevel3_479
+  - first:
+      213: -7421209951181776403
+    second: doorslevel3_480
+  - first:
+      213: 6835295796894260801
+    second: doorslevel3_481
+  - first:
+      213: 4862686229446752930
+    second: doorslevel3_482
+  - first:
+      213: -8781494527132299854
+    second: doorslevel3_483
+  - first:
+      213: 8313765841723914570
+    second: doorslevel3_484
+  - first:
+      213: 4443144115303990013
+    second: doorslevel3_485
+  - first:
+      213: 6485577293099104979
+    second: doorslevel3_486
+  - first:
+      213: -5397076681609957799
+    second: doorslevel3_487
+  - first:
+      213: 4274509979328395148
+    second: doorslevel3_488
+  - first:
+      213: 7601717513394976868
+    second: doorslevel3_489
+  - first:
+      213: 5200182406074597719
+    second: doorslevel3_490
+  - first:
+      213: 2209651644155540344
+    second: doorslevel3_491
+  - first:
+      213: -1007684990289631149
+    second: doorslevel3_492
+  - first:
+      213: 1756306037400475339
+    second: doorslevel3_493
+  - first:
+      213: -2222339996076861456
+    second: doorslevel3_494
+  - first:
+      213: -7060580659769911278
+    second: doorslevel3_495
+  - first:
+      213: -4344239712085194376
+    second: doorslevel3_496
+  - first:
+      213: 7971439350727448634
+    second: doorslevel3_497
+  - first:
+      213: -7726177241339987884
+    second: doorslevel3_498
+  - first:
+      213: 4959181215413901994
+    second: doorslevel3_499
+  - first:
+      213: -3236278666138373952
+    second: doorslevel3_500
+  - first:
+      213: -2669976781088979965
+    second: doorslevel3_501
+  - first:
+      213: -609278688649444992
+    second: doorslevel3_502
+  - first:
+      213: 7672897814827597244
+    second: doorslevel3_503
+  - first:
+      213: -6924863404795758219
+    second: doorslevel3_504
+  - first:
+      213: -8848072527116480815
+    second: doorslevel3_505
+  - first:
+      213: 113753373601035948
+    second: doorslevel3_506
+  - first:
+      213: -5465346025303926231
+    second: doorslevel3_507
+  - first:
+      213: 9169982624111705738
+    second: doorslevel3_508
+  - first:
+      213: -6135290498786923591
+    second: doorslevel3_509
+  - first:
+      213: -3065291796063348682
+    second: doorslevel3_510
+  - first:
+      213: 8314996581138391132
+    second: doorslevel3_511
+  - first:
+      213: 8559970363408756559
+    second: doorslevel3_512
+  - first:
+      213: -239132769948386755
+    second: doorslevel3_513
+  - first:
+      213: 5101228062752234011
+    second: doorslevel3_514
+  - first:
+      213: -3164632637034247921
+    second: doorslevel3_515
+  - first:
+      213: -7362763373601625121
+    second: doorslevel3_516
+  - first:
+      213: -4228150262932620185
+    second: doorslevel3_517
+  - first:
+      213: 3876196442862378247
+    second: doorslevel3_518
+  - first:
+      213: -6914157785366294679
+    second: doorslevel3_519
+  - first:
+      213: -4142975031035842663
+    second: doorslevel3_520
+  - first:
+      213: 6516604305044305225
+    second: doorslevel3_521
+  - first:
+      213: -9114279900715920705
+    second: doorslevel3_522
+  - first:
+      213: 7318075397754513390
+    second: doorslevel3_523
+  - first:
+      213: -3917246133891200090
+    second: doorslevel3_524
+  - first:
+      213: 750531298050332936
+    second: doorslevel3_525
+  - first:
+      213: 5024353767673650242
+    second: doorslevel3_526
+  - first:
+      213: -3500442024766883503
+    second: doorslevel3_527
+  - first:
+      213: 8019633719115797158
+    second: doorslevel3_528
+  - first:
+      213: 8907812410984489832
+    second: doorslevel3_529
+  - first:
+      213: -2913185559156633647
+    second: doorslevel3_530
+  - first:
+      213: 987243185057487910
+    second: doorslevel3_531
+  - first:
+      213: -1731736907935794329
+    second: doorslevel3_532
+  - first:
+      213: 2808296000527736575
+    second: doorslevel3_533
+  - first:
+      213: -6948125071083606164
+    second: doorslevel3_534
+  - first:
+      213: -6854976942244920392
+    second: doorslevel3_535
+  - first:
+      213: -3617157913014071957
+    second: doorslevel3_536
+  - first:
+      213: -6416503895815212792
+    second: doorslevel3_537
+  - first:
+      213: -6270804594698488161
+    second: doorslevel3_538
+  - first:
+      213: 6174582202313312598
+    second: doorslevel3_539
+  - first:
+      213: 7345433142496752076
+    second: doorslevel3_540
+  - first:
+      213: 776468400107027274
+    second: doorslevel3_541
+  - first:
+      213: -2887027364054007014
+    second: doorslevel3_542
+  - first:
+      213: -1981977204265608123
+    second: doorslevel3_543
+  - first:
+      213: 550641440206215772
+    second: doorslevel3_544
+  - first:
+      213: -4303030158281503948
+    second: doorslevel3_545
+  - first:
+      213: -2877909227189957823
+    second: doorslevel3_546
+  - first:
+      213: 5307908181936947339
+    second: doorslevel3_547
+  - first:
+      213: 5285828210711060656
+    second: doorslevel3_548
+  - first:
+      213: -3632542473317939089
+    second: doorslevel3_549
+  - first:
+      213: -4989695198612467697
+    second: doorslevel3_550
+  - first:
+      213: -8253428012419389225
+    second: doorslevel3_551
+  - first:
+      213: -8088435402685984434
+    second: doorslevel3_552
+  - first:
+      213: 4930906313360891762
+    second: doorslevel3_553
+  - first:
+      213: 3982065144749621736
+    second: doorslevel3_554
+  - first:
+      213: -5319753168609826819
+    second: doorslevel3_555
+  - first:
+      213: 4328907204898669769
+    second: doorslevel3_556
+  - first:
+      213: 7943799838812569694
+    second: doorslevel3_557
+  - first:
+      213: 4627494360604077585
+    second: doorslevel3_558
+  - first:
+      213: 1903894920925284725
+    second: doorslevel3_559
+  - first:
+      213: -1000727413414228211
+    second: doorslevel3_560
+  - first:
+      213: -1059397339837747503
+    second: doorslevel3_561
+  - first:
+      213: 1919909857193137636
+    second: doorslevel3_562
+  - first:
+      213: 7307867210011961981
+    second: doorslevel3_563
+  - first:
+      213: 2243344929087593272
+    second: doorslevel3_564
+  - first:
+      213: 9199310230185997772
+    second: doorslevel3_565
+  - first:
+      213: 6678501031109756472
+    second: doorslevel3_566
+  - first:
+      213: -3549000274220608861
+    second: doorslevel3_567
+  - first:
+      213: -7223081355031495267
+    second: doorslevel3_568
+  - first:
+      213: -7017134094880275542
+    second: doorslevel3_569
+  - first:
+      213: 3502782079111589674
+    second: doorslevel3_570
+  - first:
+      213: 1987584666280895145
+    second: doorslevel3_571
+  - first:
+      213: 7904855617610109669
+    second: doorslevel3_572
+  - first:
+      213: -9158886160974041215
+    second: doorslevel3_573
+  - first:
+      213: 3508118855305204020
+    second: doorslevel3_574
+  - first:
+      213: 1673932329080290856
+    second: doorslevel3_575
+  - first:
+      213: -8320419479856262904
+    second: doorslevel3_576
+  - first:
+      213: 8069748783498591744
+    second: doorslevel3_577
+  - first:
+      213: 8602411652882819856
+    second: doorslevel3_578
+  - first:
+      213: -4266903910609632119
+    second: doorslevel3_579
+  - first:
+      213: 8151941623840337163
+    second: doorslevel3_580
+  - first:
+      213: 7360190287463267769
+    second: doorslevel3_581
+  - first:
+      213: -1400558953401654085
+    second: doorslevel3_582
+  - first:
+      213: -3000004381659181884
+    second: doorslevel3_583
+  - first:
+      213: -6274550764743701
+    second: doorslevel3_584
+  - first:
+      213: 6336743191066269441
+    second: doorslevel3_585
+  - first:
+      213: -1848633976460775786
+    second: doorslevel3_586
+  - first:
+      213: -3547033559297998896
+    second: doorslevel3_587
+  - first:
+      213: -3472383317409767718
+    second: doorslevel3_588
+  - first:
+      213: 611748307924094422
+    second: doorslevel3_589
+  - first:
+      213: 3644569076026545648
+    second: doorslevel3_590
+  - first:
+      213: 3093611307143306109
+    second: doorslevel3_591
+  - first:
+      213: 5464342116770627619
+    second: doorslevel3_592
+  - first:
+      213: -4325242305992113691
+    second: doorslevel3_593
+  - first:
+      213: -3374577218312901421
+    second: doorslevel3_594
+  - first:
+      213: -2197164411043563949
+    second: doorslevel3_595
+  - first:
+      213: -8447767713881709869
+    second: doorslevel3_596
+  - first:
+      213: -5815326767968221167
+    second: doorslevel3_597
+  - first:
+      213: 5518202086144284435
+    second: doorslevel3_598
+  - first:
+      213: -8248049839915061662
+    second: doorslevel3_599
+  - first:
+      213: 4224504787391642614
+    second: doorslevel3_0
+  - first:
+      213: 8332364370222500501
+    second: doorslevel3_1
+  - first:
+      213: 6842360734455344007
+    second: doorslevel3_2
+  - first:
+      213: 4704900307787962737
+    second: doorslevel3_3
+  - first:
+      213: 6700032343332018197
+    second: doorslevel3_4
+  - first:
+      213: 8997188535526459438
+    second: doorslevel3_5
+  - first:
+      213: -7990046201069833156
+    second: doorslevel3_6
+  - first:
+      213: 4928429039354250504
+    second: doorslevel3_7
+  - first:
+      213: -5511746610803236977
+    second: doorslevel3_8
+  - first:
+      213: -3506571452877701363
+    second: doorslevel3_9
+  - first:
+      213: -8440192772462079826
+    second: doorslevel3_10
+  - first:
+      213: 6198642509119675262
+    second: doorslevel3_11
+  - first:
+      213: -2831862730587051275
+    second: doorslevel3_12
+  - first:
+      213: -203640913440874242
+    second: doorslevel3_13
+  - first:
+      213: 3496868036057453336
+    second: doorslevel3_14
+  - first:
+      213: -6735593491924811166
+    second: doorslevel3_15
+  - first:
+      213: 3291234941853559526
+    second: doorslevel3_16
+  - first:
+      213: 4914330704341292197
+    second: doorslevel3_17
+  - first:
+      213: 2775430778978487065
+    second: doorslevel3_18
+  - first:
+      213: 2184260074666728835
+    second: doorslevel3_19
+  - first:
+      213: 6094828687471915545
+    second: doorslevel3_20
+  - first:
+      213: 1863191022012198239
+    second: doorslevel3_21
+  - first:
+      213: 8574679548836840078
+    second: doorslevel3_22
+  - first:
+      213: -6517632559226267817
+    second: doorslevel3_23
+  - first:
+      213: -2710570905965322701
+    second: doorslevel3_24
+  - first:
+      213: -8866535384981356344
+    second: doorslevel3_25
+  - first:
+      213: 5081156110745821538
+    second: doorslevel3_26
+  - first:
+      213: 3845318721894883178
+    second: doorslevel3_27
+  - first:
+      213: -575250696998748974
+    second: doorslevel3_28
+  - first:
+      213: -8632562199985344011
+    second: doorslevel3_29
+  - first:
+      213: 201559832353487645
+    second: doorslevel3_30
+  - first:
+      213: 8365661295344891367
+    second: doorslevel3_31
+  - first:
+      213: -4201072492638401281
+    second: doorslevel3_32
+  - first:
+      213: -1994294779743510063
+    second: doorslevel3_33
+  - first:
+      213: -8171942622580093019
+    second: doorslevel3_34
+  - first:
+      213: -797862635184141832
+    second: doorslevel3_35
+  - first:
+      213: -271938093899726308
+    second: doorslevel3_36
+  - first:
+      213: 801408279029546667
+    second: doorslevel3_37
+  - first:
+      213: -2845926055769959419
+    second: doorslevel3_38
+  - first:
+      213: 8465362689463163193
+    second: doorslevel3_39
+  - first:
+      213: 4801756285981794322
+    second: doorslevel3_40
+  - first:
+      213: 308251109131471262
+    second: doorslevel3_41
+  - first:
+      213: -4233611283979882392
+    second: doorslevel3_42
+  - first:
+      213: -2382314079192724819
+    second: doorslevel3_43
+  - first:
+      213: 5481074424512726045
+    second: doorslevel3_44
+  - first:
+      213: 1235195202010160196
+    second: doorslevel3_45
+  - first:
+      213: -1708201044116477944
+    second: doorslevel3_46
+  - first:
+      213: -1830202948376915822
+    second: doorslevel3_47
+  - first:
+      213: 9057852961197712674
+    second: doorslevel3_48
+  - first:
+      213: -731832188471528020
+    second: doorslevel3_49
+  - first:
+      213: -4236139209306306508
+    second: doorslevel3_50
+  - first:
+      213: 5943904237848061878
+    second: doorslevel3_51
+  - first:
+      213: 5897467308217952665
+    second: doorslevel3_52
+  - first:
+      213: 1665713042942573677
+    second: doorslevel3_53
+  - first:
+      213: -6072197474041622299
+    second: doorslevel3_54
+  - first:
+      213: 5355891928636307872
+    second: doorslevel3_55
+  - first:
+      213: -5245941397254768936
+    second: doorslevel3_56
+  - first:
+      213: 7003994531529357698
+    second: doorslevel3_57
+  - first:
+      213: -6569878288923134995
+    second: doorslevel3_58
+  - first:
+      213: -5664918838499001040
+    second: doorslevel3_59
+  - first:
+      213: -978106188634505069
+    second: doorslevel3_60
+  - first:
+      213: 7032380303376281959
+    second: doorslevel3_61
+  - first:
+      213: -1856620612803745154
+    second: doorslevel3_62
+  - first:
+      213: 8144272533335312128
+    second: doorslevel3_63
+  - first:
+      213: 6857870212701064744
+    second: doorslevel3_64
+  - first:
+      213: 4582158556229187341
+    second: doorslevel3_65
+  - first:
+      213: -3340971571074730528
+    second: doorslevel3_66
+  - first:
+      213: -6460763356654713656
+    second: doorslevel3_67
+  - first:
+      213: -5703268276087189809
+    second: doorslevel3_68
+  - first:
+      213: 4017871367094132817
+    second: doorslevel3_69
+  - first:
+      213: -1267072252894741940
+    second: doorslevel3_70
+  - first:
+      213: 5787912634016599777
+    second: doorslevel3_71
+  - first:
+      213: 7478857190044235376
+    second: doorslevel3_72
+  - first:
+      213: 532311154986448882
+    second: doorslevel3_73
+  - first:
+      213: 6513554372477558772
+    second: doorslevel3_74
+  - first:
+      213: -16915747356781907
+    second: doorslevel3_75
+  - first:
+      213: -4670315147678040090
+    second: doorslevel3_76
+  - first:
+      213: 8940156699413448441
+    second: doorslevel3_77
+  - first:
+      213: -1531236227798849947
+    second: doorslevel3_78
+  - first:
+      213: -6817644417688057521
+    second: doorslevel3_79
+  - first:
+      213: -4717586778298470986
+    second: doorslevel3_80
+  - first:
+      213: -5617955426672235685
+    second: doorslevel3_81
+  - first:
+      213: -422425425826259620
+    second: doorslevel3_82
+  - first:
+      213: 9025642579931982071
+    second: doorslevel3_83
+  - first:
+      213: -6660001414248863263
+    second: doorslevel3_84
+  - first:
+      213: 7833735893580862203
+    second: doorslevel3_85
+  - first:
+      213: -8179593463493447546
+    second: doorslevel3_86
+  - first:
+      213: -1606008109915000507
+    second: doorslevel3_87
+  - first:
+      213: 1412104207376701920
+    second: doorslevel3_88
+  - first:
+      213: 3779299366198164552
+    second: doorslevel3_89
+  - first:
+      213: -3154876439910875589
+    second: doorslevel3_90
+  - first:
+      213: 3982610553741770244
+    second: doorslevel3_91
+  - first:
+      213: 6783237300136653900
+    second: doorslevel3_92
+  - first:
+      213: 3430697532363961165
+    second: doorslevel3_93
+  - first:
+      213: -3855629972948901948
+    second: doorslevel3_94
+  - first:
+      213: 3824289265013166844
+    second: doorslevel3_95
+  - first:
+      213: 9033183085108593125
+    second: doorslevel3_96
+  - first:
+      213: 4697579161338888214
+    second: doorslevel3_97
+  - first:
+      213: -4175668636112477826
+    second: doorslevel3_98
+  - first:
+      213: 2879132136908235576
+    second: doorslevel3_99
+  - first:
+      213: -737691687875111255
+    second: doorslevel3_100
+  - first:
+      213: -3639382801750763988
+    second: doorslevel3_101
+  - first:
+      213: 4073529183629918418
+    second: doorslevel3_102
+  - first:
+      213: 1042167621143389131
+    second: doorslevel3_103
+  - first:
+      213: -5712651346787706044
+    second: doorslevel3_104
+  - first:
+      213: 2847789363367419183
+    second: doorslevel3_105
+  - first:
+      213: 11197815129170374
+    second: doorslevel3_106
+  - first:
+      213: -1352221675560824535
+    second: doorslevel3_107
+  - first:
+      213: -5113023968084546099
+    second: doorslevel3_108
+  - first:
+      213: 5169997612603174226
+    second: doorslevel3_109
+  - first:
+      213: -1013169191418031641
+    second: doorslevel3_110
+  - first:
+      213: -4267054194574771385
+    second: doorslevel3_111
+  - first:
+      213: 2720909001687653165
+    second: doorslevel3_112
+  - first:
+      213: -1596006879531993039
+    second: doorslevel3_113
+  - first:
+      213: -8109788550890720372
+    second: doorslevel3_114
+  - first:
+      213: 9024248691625328131
+    second: doorslevel3_115
+  - first:
+      213: -9024622941682132729
+    second: doorslevel3_116
+  - first:
+      213: 6776814571266455314
+    second: doorslevel3_117
+  - first:
+      213: 7617450514594521259
+    second: doorslevel3_118
+  - first:
+      213: -4821565099680611330
+    second: doorslevel3_119
+  - first:
+      213: -8563235640010524242
+    second: doorslevel3_120
+  - first:
+      213: -4390864747310882302
+    second: doorslevel3_121
+  - first:
+      213: -5933107547749155634
+    second: doorslevel3_122
+  - first:
+      213: -342591339927205045
+    second: doorslevel3_123
+  - first:
+      213: 4018826475953941602
+    second: doorslevel3_124
+  - first:
+      213: 2385936582138130035
+    second: doorslevel3_125
+  - first:
+      213: 5672839792553209604
+    second: doorslevel3_126
+  - first:
+      213: 6807425396683826978
+    second: doorslevel3_127
+  - first:
+      213: -5660640330206349580
+    second: doorslevel3_128
+  - first:
+      213: -444609164923691662
+    second: doorslevel3_129
+  - first:
+      213: -500396305856280756
+    second: doorslevel3_130
+  - first:
+      213: -2515080053071584897
+    second: doorslevel3_131
+  - first:
+      213: -2321888101403328250
+    second: doorslevel3_132
+  - first:
+      213: -8236669836874982096
+    second: doorslevel3_133
+  - first:
+      213: 4418136994028271880
+    second: doorslevel3_134
+  - first:
+      213: 3023201247087848288
+    second: doorslevel3_135
+  - first:
+      213: 8434217807045644531
+    second: doorslevel3_136
+  - first:
+      213: 2153607766613694925
+    second: doorslevel3_137
+  - first:
+      213: 2653866306173781463
+    second: doorslevel3_138
+  - first:
+      213: -1770014290020412998
+    second: doorslevel3_139
+  - first:
+      213: 1551762620335627992
+    second: doorslevel3_140
+  - first:
+      213: -5399334794306271680
+    second: doorslevel3_141
+  - first:
+      213: 2333003354734866102
+    second: doorslevel3_142
+  - first:
+      213: 6252746069387147818
+    second: doorslevel3_143
+  - first:
+      213: -7475731720444576301
+    second: doorslevel3_144
+  - first:
+      213: -3654111588911275272
+    second: doorslevel3_145
+  - first:
+      213: 2022946275883448640
+    second: doorslevel3_146
+  - first:
+      213: 5251591179756706672
+    second: doorslevel3_147
+  - first:
+      213: 4286330659822333479
+    second: doorslevel3_148
+  - first:
+      213: 2895832667975089513
+    second: doorslevel3_149
+  - first:
+      213: -2812531342919123154
+    second: doorslevel3_150
+  - first:
+      213: -4541388194585075895
+    second: doorslevel3_151
+  - first:
+      213: 8667500655908186660
+    second: doorslevel3_152
+  - first:
+      213: 7251884801894103022
+    second: doorslevel3_153
+  - first:
+      213: -1824614937486468463
+    second: doorslevel3_154
+  - first:
+      213: -3928306459082765264
+    second: doorslevel3_155
+  - first:
+      213: 7924525364051145401
+    second: doorslevel3_156
+  - first:
+      213: 4897216258943332448
+    second: doorslevel3_157
+  - first:
+      213: -7055770693631769327
+    second: doorslevel3_158
+  - first:
+      213: 4160112951689329869
+    second: doorslevel3_159
+  - first:
+      213: -5858850274900967891
+    second: doorslevel3_160
+  - first:
+      213: -393912088437763502
+    second: doorslevel3_161
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doorslevel3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7a64c8b470aa30800000000000000
+      internalID: 4224504787391642614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59acb3a7f3182a370800000000000000
+      internalID: 8332364370222500501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78baa4ae5d2f4fe50800000000000000
+      internalID: 6842360734455344007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179d35df6e92b4140800000000000000
+      internalID: 4704900307787962737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518deeffaeb4bfc50800000000000000
+      internalID: 6700032343332018197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28854dcd4f6cdc70800000000000000
+      internalID: 8997188535526459438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34f54e2057ad1190800000000000000
+      internalID: -7990046201069833156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8050e6f691c456440800000000000000
+      internalID: 4928429039354250504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f1c13f8a75283b0800000000000000
+      internalID: -5511746610803236977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff2bb97d7265fc0800000000000000
+      internalID: -3506571452877701363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0149934696eda80800000000000000
+      internalID: -8440192772462079826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bd6bd2580060650800000000000000
+      internalID: 6198642509119675262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fae0b2b9d333b8d0800000000000000
+      internalID: -2831862730587051275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ee9c0ba58c2df0800000000000000
+      internalID: -203640913440874242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8135f9b93fe578030800000000000000
+      internalID: 3496868036057453336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2628362e76d5682a0800000000000000
+      internalID: -6735593491924811166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eae88dedb0dcad20800000000000000
+      internalID: 3291234941853559526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4de050db5333440800000000000000
+      internalID: 4914330704341292197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bc2bfa69f448620800000000000000
+      internalID: 2775430778978487065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d149717fc005e10800000000000000
+      internalID: 2184260074666728835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912bf93466e259450800000000000000
+      internalID: 6094828687471915545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5debb7ec526bd910800000000000000
+      internalID: 1863191022012198239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e820a3b7e916ff670800000000000000
+      internalID: 8574679548836840078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7575cc228b7bc85a0800000000000000
+      internalID: -6517632559226267817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e9d6b4f1e126ad0800000000000000
+      internalID: -2710570905965322701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c041c55b0db3f480800000000000000
+      internalID: -8866535384981356344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2616f45cf84e38640800000000000000
+      internalID: 5081156110745821538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f14b211015d5530800000000000000
+      internalID: 3845318721894883178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcf794f98c4408f0800000000000000
+      internalID: -575250696998748974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b8689a6af23880800000000000000
+      internalID: -8632562199985344011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bba6089951cc200800000000000000
+      internalID: 201559832353487645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5344cff9cc81470800000000000000
+      internalID: 8365661295344891367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8f9083dac2b5c0800000000000000
+      internalID: -4201072492638401281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e8fbc677d254e0800000000000000
+      internalID: -1994294779743510063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af4d384b7d679e80800000000000000
+      internalID: -8171942622580093019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ca4a192c6de4f0800000000000000
+      internalID: -797862635184141832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c5309eb1e93cf0800000000000000
+      internalID: -271938093899726308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baefc9f659c2f1b00800000000000000
+      internalID: 801408279029546667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5049dc4a45d3188d0800000000000000
+      internalID: -2845926055769959419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391c40c3820b7570800000000000000
+      internalID: 8465362689463163193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a1fbb6e343a240800000000000000
+      internalID: 4801756285981794322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99c66520c0274400800000000000000
+      internalID: 308251109131471262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603b45c7f03f35c0800000000000000
+      internalID: -4233611283979882392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa4e4e87f150fed0800000000000000
+      internalID: -2382314079192724819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d144f8c2620b01c40800000000000000
+      internalID: 5481074424512726045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c151ced7b442110800000000000000
+      internalID: 1235195202010160196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086c7863304b48e0800000000000000
+      internalID: -1708201044116477944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2901f138d10d996e0800000000000000
+      internalID: -1830202948376915822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e8e31745f3bd70800000000000000
+      internalID: 9057852961197712674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca535f2808208d5f0800000000000000
+      internalID: -731832188471528020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438813a45d53635c0800000000000000
+      internalID: -4236139209306306508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b76fd3896dfc7250800000000000000
+      internalID: 5943904237848061878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9996fcc454308d150800000000000000
+      internalID: 5897467308217952665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb35eef2dcd1710800000000000000
+      internalID: 1665713042942573677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e099b9b1983bbba0800000000000000
+      internalID: -6072197474041622299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9bfb51553f35a40800000000000000
+      internalID: 5355891928636307872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6fc18e71ca237b0800000000000000
+      internalID: -5245941397254768936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f59ceaef233160800000000000000
+      internalID: 7003994531529357698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de37f23418a13d4a0800000000000000
+      internalID: -6569878288923134995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d39d5945a2261b0800000000000000
+      internalID: -5664918838499001040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39044d98a911d62f0800000000000000
+      internalID: -978106188634505069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761723470a8089160800000000000000
+      internalID: 7032380303376281959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a2a23b365fb36e0800000000000000
+      internalID: -1856620612803745154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0070c6708b4460170800000000000000
+      internalID: 8144272533335312128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e87c7bf9c0c2f50800000000000000
+      internalID: 6857870212701064744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07be88fde8179f30800000000000000
+      internalID: 4582158556229187341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5796dae0c72a1d0800000000000000
+      internalID: -3340971571074730528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c44cbc25f1c656a0800000000000000
+      internalID: -6460763356654713656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce811958bbe9d0b0800000000000000
+      internalID: -5703268276087189809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ebd488b852c730800000000000000
+      internalID: 4017871367094132817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a747dcf747a6ee0800000000000000
+      internalID: -1267072252894741940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee0e8dffdbc25050800000000000000
+      internalID: 5787912634016599777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076767a5dfc3ac760800000000000000
+      internalID: 7478857190044235376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f1f6dc26236700800000000000000
+      internalID: 532311154986448882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff97b4013bc46a50800000000000000
+      internalID: 6513554372477558772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da250b7a737e3cff0800000000000000
+      internalID: -16915747356781907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef36891e15bf2fb0800000000000000
+      internalID: -4670315147678040090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60ed0b621d11c70800000000000000
+      internalID: 8940156699413448441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56627de73c4ffbae0800000000000000
+      internalID: -1531236227798849947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4947c6068cd261a0800000000000000
+      internalID: -6817644417688057521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda07ae1d3c78eb0800000000000000
+      internalID: -4717586778298470986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b293dfd430902b0800000000000000
+      internalID: -5617955426672235685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d5885305e332af0800000000000000
+      internalID: -422425425826259620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f86c764b16814d70800000000000000
+      internalID: 9025642579931982071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e81cfffbe293a0800000000000000
+      internalID: -6660001414248863263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf25d115a4507bc60800000000000000
+      internalID: 7833735893580862203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680bd51151f3c7e80800000000000000
+      internalID: -8179593463493447546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541be1e022056b9e0800000000000000
+      internalID: -1606008109915000507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9d5828b4dc89310800000000000000
+      internalID: 1412104207376701920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cb91effb4c27430800000000000000
+      internalID: 3779299366198164552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3efcd8d790a734d0800000000000000
+      internalID: -3154876439910875589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eff76a233154730800000000000000
+      internalID: 3982610553741770244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4433d5a266e22e50800000000000000
+      internalID: 6783237300136653900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43fc54aa394c9f20800000000000000
+      internalID: 3430697532363961165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf1805b7fc0e7ac0800000000000000
+      internalID: -3855629972948901948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2137713da921530800000000000000
+      internalID: 3824289265013166844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e107f2f7205c5d70800000000000000
+      internalID: 9033183085108593125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610c1efbb57213140800000000000000
+      internalID: 4697579161338888214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71a6c4cf7b0d06c0800000000000000
+      internalID: -4175668636112477826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a3d99c6bb4f720800000000000000
+      internalID: 2879132136908235576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6127e715133c5f0800000000000000
+      internalID: -737691687875111255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26daf3cf905e7dc0800000000000000
+      internalID: -3639382801750763988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0c274c535188830800000000000000
+      internalID: 4073529183629918418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc36aa60ee5867e00800000000000000
+      internalID: 1042167621143389131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bdf05fdd598b0b0800000000000000
+      internalID: -5712651346787706044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d96a67651658720800000000000000
+      internalID: 2847789363367419183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1e8018a58c72000800000000000000
+      internalID: 11197815129170374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9211d9aec81fb3de0800000000000000
+      internalID: -1352221675560824535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd234e7ac3ea09b0800000000000000
+      internalID: -5113023968084546099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d64d4df658fb740800000000000000
+      internalID: 5169997612603174226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e198280dff70f1f0800000000000000
+      internalID: -1013169191418031641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb70f51d068c4c0800000000000000
+      internalID: -4267054194574771385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b51cf225c92c520800000000000000
+      internalID: 2720909001687653165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1387a66f238d9d9e0800000000000000
+      internalID: -1596006879531993039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f0acc74e347f80800000000000000
+      internalID: -8109788550890720372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e7c1d5f529c3d70800000000000000
+      internalID: 9024248691625328131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7091231cf3912c280800000000000000
+      internalID: -9024622941682132729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217370d82f41c0e50800000000000000
+      internalID: 6776814571266455314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e58052ee96b960800000000000000
+      internalID: 7617450514594521259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3cd1c661c561db0800000000000000
+      internalID: -4821565099680611330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9353d2e86492980800000000000000
+      internalID: -8563235640010524242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202efbfa6c38013c0800000000000000
+      internalID: -4390864747310882302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccf83ace1e59ada0800000000000000
+      internalID: -5933107547749155634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b8380ddfede3bf0800000000000000
+      internalID: -342591339927205045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c6b21236db5c730800000000000000
+      internalID: 4018826475953941602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee3f22eac8c1120800000000000000
+      internalID: 2385936582138130035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa5de3cb9f9be40800000000000000
+      internalID: 5672839792553209604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227ef4cb455d87e50800000000000000
+      internalID: 6807425396683826978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6fccc6c9d5171b0800000000000000
+      internalID: -5660640330206349580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d17d4f15e64d9f0800000000000000
+      internalID: -444609164923691662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47c486063c3e09f0800000000000000
+      internalID: -500396305856280756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f716ff66404a81dd0800000000000000
+      internalID: -2515080053071584897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60106abd21ff6cfd0800000000000000
+      internalID: -2321888101403328250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d54e05c6871bd80800000000000000
+      internalID: -8236669836874982096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80931121030605d30800000000000000
+      internalID: 4418136994028271880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b6031448194f920800000000000000
+      internalID: 3023201247087848288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0da3bb86c5c0570800000000000000
+      internalID: 8434217807045644531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9188a7ad623ed10800000000000000
+      internalID: 2153607766613694925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5cddc385d64d420800000000000000
+      internalID: 2653866306173781463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d7f39165af67e0800000000000000
+      internalID: -1770014290020412998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de95d0b1e7f88510800000000000000
+      internalID: 1551762620335627992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c7f98c95b115b0800000000000000
+      internalID: -5399334794306271680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be24cab03e706020800000000000000
+      internalID: 2333003354734866102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_143
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a7a80fb6736c650800000000000000
+      internalID: 6252746069387147818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf7cebb9dd04890800000000000000
+      internalID: -7475731720444576301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22e45cedcf94dc0800000000000000
+      internalID: -3654111588911275272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0497bbd7be2f21c10800000000000000
+      internalID: 2022946275883448640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b19f69a5661e840800000000000000
+      internalID: 5251591179756706672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e6390760b1c7b30800000000000000
+      internalID: 4286330659822333479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d70aff770103820800000000000000
+      internalID: 2895832667975089513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f37a125a1e7f8d0800000000000000
+      internalID: -2812531342919123154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f9a929f7fb9f0c0800000000000000
+      internalID: -4541388194585075895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a6fd59ce5294870800000000000000
+      internalID: 8667500655908186660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7b3f02eced3a460800000000000000
+      internalID: 7251884801894103022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5f3fa16aada6e0800000000000000
+      internalID: -1824614937486468463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ccf79a61adb79c0800000000000000
+      internalID: -3928306459082765264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b277d925d199fd60800000000000000
+      internalID: 7924525364051145401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060b59ead3866f340800000000000000
+      internalID: 4897216258943332448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115877defedd41e90800000000000000
+      internalID: -7055770693631769327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb1f630b0bbb930800000000000000
+      internalID: 4160112951689329869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_160
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ef35c67be21bea0800000000000000
+      internalID: -5858850274900967891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorslevel3_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525fe7ea0b888af0800000000000000
+      internalID: -393912088437763502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
