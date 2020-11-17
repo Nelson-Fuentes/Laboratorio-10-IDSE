@@ -48,6 +48,10 @@
      <Compile Include="Assets\Scripts\PusheableDialogueLevel3.cs" />
      <Compile Include="Assets\Scripts\PusheableRotation.cs" />
      <Compile Include="Assets\lvl2_stuff\Scripts\Character_controller.cs" />
+     <Compile Include="Assets\lvl2_stuff\Scripts\DoorScript.cs" />
+     <Compile Include="Assets\lvl2_stuff\Scripts\EnemyScript.cs" />
+     <Compile Include="Assets\lvl2_stuff\Scripts\Enemy_collider.cs" />
+     <Compile Include="Assets\lvl2_stuff\Scripts\FirstAidKitScript.cs" />
      <Compile Include="Assets\lvl2_stuff\Scripts\GameManager.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

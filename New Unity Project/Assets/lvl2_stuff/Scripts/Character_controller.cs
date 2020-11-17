@@ -11,6 +11,9 @@ public class Character_controller : MonoBehaviour {
 
     public Animator animator;
 
+    public int first_aid_kit_required = 4;
+    public int counter_first_aid_kit = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -57,5 +60,20 @@ public class Character_controller : MonoBehaviour {
         
         rigidbody2d.MovePosition(position);
         
+    }
+    public void restart(){
+        transform.position = new Vector2(-14.37f,-7.81f);
+    }
+    public void nextLevel(){
+        if(counter_first_aid_kit == first_aid_kit_required){
+            //nextlvl
+            restart();
+        }
+        else{
+            Debug.Log ("there is missing "+(first_aid_kit_required-counter_first_aid_kit)+"first aid kits!");
+        }
+    }
+    public void addFirstAidKit(){
+        this.counter_first_aid_kit++;
     }
 }
