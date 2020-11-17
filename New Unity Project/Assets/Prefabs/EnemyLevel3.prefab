@@ -145,7 +145,7 @@ MonoBehaviour:
   animator: {fileID: 2083817124}
   velocity: 20
   acceleration: 0
-  interpolationPeriod: 0.5
+  interpolationPeriod: 1.5
 --- !u!1001 &8371005964557977595
 PrefabInstance:
   m_ObjectHideFlags: 0
